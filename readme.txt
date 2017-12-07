@@ -18,7 +18,7 @@ Credits and thanks to strangerstudios & joshlevinson
 
 Plugin adds/updates a User Role for WP Residence theme in User profile.
 
-(Additionally it to adds a WordPress Role for each Membership)
+(Additionally it adds a WordPress Role for each Membership that is useful for access control)
 
 Plugin adds/updates a fields value with "X" (like in "pmpro_role_X")
 accordingly in the Users profile
@@ -35,7 +35,7 @@ Adds a WordPress Role for each Membership Level with Display Name = Membership L
 = 'pmpro_role_X' (where X is the WP Residence Membership Level's ID).
 
 == Description ==
-This plugin currently requires Paid Memberships Pro. 
+This plugin currently requires Paid Memberships Pro and WP Residence theme. 
 
 == Installation ==
 

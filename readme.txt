@@ -30,7 +30,8 @@ X = 3: Agency
 X = 4: Developer
 
 
-Adds a WordPress Role for each Membership Level with Display Name = Membership Level Name and Role Name = 'pmpro_role_X' (where X is the Membership Level's ID).
+Adds a WordPress Role for each Membership Level with Display Name = Membership Level Name and Role Name 
+= 'pmpro_role_X' (where X is the WP Residence Membership Level's ID).
 
 == Description ==
 This plugin currently requires Paid Memberships Pro. 

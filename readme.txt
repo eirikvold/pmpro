@@ -1,4 +1,4 @@
-=== PMPro Roleupdate ===
+=== PMPro Roles ===
 Contributors: joshlevinson
 Tags: pmpro, membership, wordpress roles
 Requires at least: 3.0
@@ -39,7 +39,7 @@ This plugin currently requires Paid Memberships Pro.
 
 = I found a bug in the plugin. =
 
-Please post it in the issues section of GitHub and we'll fix it as soon as we can. Thanks for helping. https://github.com/eirikvold/pmpro-roleupdate/issues
+Please post it in the issues section of GitHub and we'll fix it as soon as we can. Thanks for helping. https://github.com/eirikvold/pmpro-roles/issues
 
 == Changelog ==
 = 1.1 =

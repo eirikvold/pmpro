@@ -8,6 +8,11 @@ Stable tag: 1.1
 
 Makes "WP Residence" theme work with "Paid Memberships Pro" plugin
 
+"Three birds in one shot"
+1. Add/Update Paid Memberships Pro User Roles
+2. Add/Update WP Residence User Roles (from 1 to 4)
+3. Add/Update Wordpress User Roles (pmpro_role_X)
+
 Fork from https://github.com/strangerstudios/pmpro-roles/ 
 Credits and thanks to strangerstudios & joshlevinson
 

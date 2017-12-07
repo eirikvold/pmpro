@@ -29,6 +29,7 @@ X = 2: Single Agent
 X = 3: Agency
 X = 4: Developer
 
+e.g. User Role (1, 2 , 3 or 4): 1 = simple user, 2 = agent, 3 = agency, 4 = developer 
 
 Adds a WordPress Role for each Membership Level with Display Name = Membership Level Name and Role Name 
 = 'pmpro_role_X' (where X is the WP Residence Membership Level's ID).

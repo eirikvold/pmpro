@@ -11,8 +11,9 @@ Makes "WP Residence" theme work with "Paid Memberships Pro" plugin
 Fork from https://github.com/strangerstudios/pmpro-roles/ 
 Credits and thanks to strangerstudios & joshlevinson
 
-Additional to adding a WordPress Role for each Membership
-this plugin adds/updates a User Role for WP Residence theme in User profile.
+Plugin adds/updates a User Role for WP Residence theme in User profile.
+
+(Additionally it to adds a WordPress Role for each Membership)
 
 Plugin adds/updates a fields value with "X" (like in "pmpro_role_X")
 accordingly in the Users profile

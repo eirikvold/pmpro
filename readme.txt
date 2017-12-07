@@ -31,7 +31,7 @@ This plugin currently requires Paid Memberships Pro.
 
 == Installation ==
 
-1. Upload the `pmpro-roleupdate` directory to the `/wp-content/plugins/` directory of your site.
+1. Upload the `pmpro-roles` directory to the `/wp-content/plugins/` directory of your site.
 1. Activate the plugin through the 'Plugins' menu in WordPress.
 1. That's it. No settings.
  

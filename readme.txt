@@ -1,6 +1,6 @@
 === PMPro Roles ===
 Contributors: joshlevinson
-Tags: pmpro, membership, wordpress roles
+Tags: pmpro, membership, wordpress roles, wp residence
 Requires at least: 3.0
 Tested up to: 4.8.1
 Stable tag: 1.1

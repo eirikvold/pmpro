@@ -1,10 +1,28 @@
-=== PMPro Roles ===
+=== PMPro Roleupdate ===
 Contributors: joshlevinson
 Tags: pmpro, membership, wordpress roles
 Requires at least: 3.0
 Tested up to: 4.8.1
 Stable tag: 1.1
 =========
+
+Makes "WP Residence" theme work with "Paid Memberships Pro" plugin
+
+Fork from https://github.com/strangerstudios/pmpro-roles/ 
+Credits and thanks to strangerstudios & joshlevinson
+
+Additional to adding a WordPress Role for each Membership
+this plugin adds/updates a User Role for WP Residence theme in User profile.
+
+Plugin adds/updates a fields value with "X" (like in "pmpro_role_X")
+accordingly in the Users profile
+
+Where values in WP Residence are
+X = 1 : User
+X = 2: Single Agent
+X = 3: Agency
+X = 4: Developer
+
 
 Adds a WordPress Role for each Membership Level with Display Name = Membership Level Name and Role Name = 'pmpro_role_X' (where X is the Membership Level's ID).
 
@@ -13,7 +31,7 @@ This plugin currently requires Paid Memberships Pro.
 
 == Installation ==
 
-1. Upload the `pmpro-roles` directory to the `/wp-content/plugins/` directory of your site.
+1. Upload the `pmpro-roleupdate` directory to the `/wp-content/plugins/` directory of your site.
 1. Activate the plugin through the 'Plugins' menu in WordPress.
 1. That's it. No settings.
  
@@ -21,7 +39,7 @@ This plugin currently requires Paid Memberships Pro.
 
 = I found a bug in the plugin. =
 
-Please post it in the issues section of GitHub and we'll fix it as soon as we can. Thanks for helping. https://github.com/strangerstudios/pmpro-roles/issues
+Please post it in the issues section of GitHub and we'll fix it as soon as we can. Thanks for helping. https://github.com/eirikvold/pmpro-roleupdate/issues
 
 == Changelog ==
 = 1.1 =

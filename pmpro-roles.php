@@ -1,11 +1,11 @@
 <?php
 /*
 Plugin Name: PMPro Roles
-Description: Adds a WordPress Role for each Membership Level with Display Name = Membership Level Name and Role Name = 'pmpro_role_X' (where X is the Membership Level's ID).
+Description: Adds a WordPress Role for each Membership Level with Display Name = Membership Level Name and Role Name = 'pmpro_role_X' (where X is the Membership Level's & WP ResidenceUser Roles ID).
 Plugin URI: http://joshlevinson.me
-Author: Josh Levinson
+Author: Eirik Vold & Josh Levinson
 Author URI: http://joshlevinson.me
-Version: 1.1
+Version: 1.2.0
 License: GPL2
 Text Domain: pmpro-roles
 Domain Path: /pmpro-roles
@@ -120,6 +120,12 @@ class PMPRO_Roles {
 		//set the role to our key
 		else {
 			$wp_user_object->set_role( PMPRO_Roles::$role_key . $level_id );
+		//add user role for wp residence
+                       if ($level_id < 5) {
+			update_user_meta($user_id, 'user_estate_role', $level_id);
+		   }           else {
+			update_user_meta($user_id, 'user_estate_role', '');
+		   }
 		}
 	}
 	
